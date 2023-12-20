@@ -33,9 +33,7 @@ Adjust hyperparameters such as k (number of neighbors) and n (norm for distance 
 
 Code Structure:
 
-knn_classifier.ipynb: Jupyter notebook containing the k-NN classifier implementation.
-
-knn_classifier.py: Python script equivalent to the notebook.
+knn_classifier.ipynb: Google colab notebook containing the k-NN classifier implementation.
 
 mnist_train.csv: Training dataset file.
 
